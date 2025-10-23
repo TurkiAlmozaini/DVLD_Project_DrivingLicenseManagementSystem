@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Using_ConsoleApp.exe.config
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Using_ConsoleApp.exe
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Using_ConsoleApp.pdb
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Business_Layer.dll
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Data_Layer.dll
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Business_Layer.pdb
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\bin\Debug\DVLD_Data_Layer.pdb
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Test.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Using_ConsoleApp.exe
+C:\Users\Admin\source\repos\MyProjects\DVLD_Using_ConsoleApp\obj\Debug\DVLD_Using_ConsoleApp.pdb
